@@ -4,7 +4,7 @@ A curated list of awesome .cursorrules files for enhancing your Cursor AI experi
 
  is an AI-powered code editor. `.cursorrules` files define custom rules for Cursor AI to follow when generating code, allowing you to tailor its behavior to your specific needs and preferences.
 
-## Why .cursorrules?
+## Why .asorules?
 
 `.cursorrules` is a powerful feature in Cursor AI that allows developers to define project-specific instructions for the AI. Here's why you might want to use it:
 
