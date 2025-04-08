@@ -1,9 +1,4 @@
 # Awesome
-<p align="center">
-  <a href="https://patrickjs.com" target="_blank">
-    <img src="/cursor-ai-logo.png" alt="Awesome CursorRules" />
-  </a>
-</p>
 
 A curated list of awesome .cursorrules files for enhancing your Cursor AI experience.
 
