@@ -1,5 +1,4 @@
-# Awesome CursorRules [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
-
+# Awesome
 <p align="center">
   <a href="https://patrickjs.com" target="_blank">
     <img src="/cursor-ai-logo.png" alt="Awesome CursorRules" />
@@ -8,7 +7,7 @@
 
 A curated list of awesome .cursorrules files for enhancing your Cursor AI experience.
 
-[Cursor AI](https://cursor.sh/) is an AI-powered code editor. `.cursorrules` files define custom rules for Cursor AI to follow when generating code, allowing you to tailor its behavior to your specific needs and preferences.
+ is an AI-powered code editor. `.cursorrules` files define custom rules for Cursor AI to follow when generating code, allowing you to tailor its behavior to your specific needs and preferences.
 
 ## Why .cursorrules?
 
@@ -226,23 +225,18 @@ By creating a `.cursorrules` file in your project's root directory, you can leve
 
 - [Cursor Watchful Headers](https://github.com/johnbenac/cursor-watchful-headers) - A Python-based file watching system that automatically manages headers in text files and maintains a clean, focused project tree structure. Perfect for maintaining consistent file headers and documentation across your project, with special features to help LLMs maintain better project awareness.
 
-## Directories
-
-- [CursorList](https://cursorlist.com)
-- [CursorDirectory](https://cursor.directory/)
 
 ## How to Use
 
 ### Method One
 
-1. Install [Cursor AI](https://cursor.sh/) if you haven't already.
+
 2. Browse the rules above to find a `.cursorrules` file that suits your needs.
 3. Copy the chosen `.cursorrules` file to your project's root directory.
 4. Customize the rules as needed for your specific project requirements.
 
 ### Method Two
 
-1. Install [Cursor AI](https://cursor.sh/) if you haven't already.
 2. Install [vscode-cursor-rules](https://marketplace.visualstudio.com/items?itemName=BeilunYang.cursor-rules) extension.
 3. Open the command palette (Cmd+Shift+P or Ctrl+Shift+P) and type `Cursor Rules: Add .cursorrules`.
 4. Select and download the `.cursorrules` file that suits your needs.
